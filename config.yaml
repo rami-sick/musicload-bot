@@ -1,4 +1,4 @@
-token: <token>
+token: <1420162191:AAH2dY-RMIJD0R_6hGYMZ3PaGwAa7dikDLs>
 
 #seconds
 max_download_time: 30
@@ -12,4 +12,4 @@ debug: false
 #custom logger
 logging: true
 
-bot_username: <username>
+bot_username: <@YourMusicUploaderBot>
